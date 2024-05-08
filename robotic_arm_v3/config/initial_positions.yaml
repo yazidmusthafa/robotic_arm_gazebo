@@ -1,0 +1,9 @@
+# Default initial positions for robotic_arm's ros2_control fake system
+
+initial_positions:
+  1Feet: 0
+  LINK_2: 0
+  LINK_3: 0
+  LINK_4: 0
+  LINK_5: 0
+  LINK_6: 0
